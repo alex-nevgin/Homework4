@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "randomMatrix", "randomMatrix\randomMatrix.csproj", "{A2C90A5D-4FF1-4C68-8E54-AC4A4F17F8F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lowestValue", "lowestValue\lowestValue.csproj", "{8F776937-DD69-4C6E-A81A-3F9C374D576D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "guessTheNumber", "guessTheNumber\guessTheNumber.csproj", "{5DB1F393-983F-45FB-8397-A42718315027}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2C90A5D-4FF1-4C68-8E54-AC4A4F17F8F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C90A5D-4FF1-4C68-8E54-AC4A4F17F8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C90A5D-4FF1-4C68-8E54-AC4A4F17F8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C90A5D-4FF1-4C68-8E54-AC4A4F17F8F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F776937-DD69-4C6E-A81A-3F9C374D576D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F776937-DD69-4C6E-A81A-3F9C374D576D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F776937-DD69-4C6E-A81A-3F9C374D576D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F776937-DD69-4C6E-A81A-3F9C374D576D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DB1F393-983F-45FB-8397-A42718315027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB1F393-983F-45FB-8397-A42718315027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB1F393-983F-45FB-8397-A42718315027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB1F393-983F-45FB-8397-A42718315027}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
