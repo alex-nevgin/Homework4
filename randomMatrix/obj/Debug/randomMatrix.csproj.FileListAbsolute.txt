@@ -1,0 +1,6 @@
+D:\Документы\проекты VS\Homework4\randomMatrix\obj\Debug\randomMatrix.csproj.AssemblyReference.cache
+D:\Документы\проекты VS\Homework4\randomMatrix\obj\Debug\randomMatrix.csproj.CoreCompileInputs.cache
+D:\Документы\проекты VS\Homework4\randomMatrix\bin\Debug\randomMatrix.exe
+D:\Документы\проекты VS\Homework4\randomMatrix\bin\Debug\randomMatrix.pdb
+D:\Документы\проекты VS\Homework4\randomMatrix\obj\Debug\randomMatrix.exe
+D:\Документы\проекты VS\Homework4\randomMatrix\obj\Debug\randomMatrix.pdb
