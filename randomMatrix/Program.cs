@@ -9,7 +9,7 @@ namespace randomMatrix
             string hintRows = "Введите число строк: ";
             string hintColumns = "Введите число столбцов: ";
             int r, c; // количество строк и столбцов
-            bool flagR, flagC; // флаги для проверки ввода
+            //bool flagR, flagC; // флаги для проверки ввода
            
 
             Console.Write(hintRows);
@@ -40,9 +40,17 @@ namespace randomMatrix
                     matrix[i, j] = rnd.Next(10);
                     Console.Write($"{matrix[i, j]} ");
                 }
+                Console.WriteLine();
             }
 
-            
+            int sum = 0;
+
+            foreach (var value in matrix)
+            {
+                sum += value;
+            }
+
+            Console.WriteLine("Сумма элементов массива: " + sum);
         }
     }
 }
