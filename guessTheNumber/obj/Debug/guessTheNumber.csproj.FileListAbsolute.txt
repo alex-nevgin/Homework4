@@ -1,0 +1,6 @@
+D:\Документы\проекты VS\Homework4\guessTheNumber\obj\Debug\guessTheNumber.csproj.AssemblyReference.cache
+D:\Документы\проекты VS\Homework4\guessTheNumber\obj\Debug\guessTheNumber.csproj.CoreCompileInputs.cache
+D:\Документы\проекты VS\Homework4\guessTheNumber\bin\Debug\guessTheNumber.exe
+D:\Документы\проекты VS\Homework4\guessTheNumber\bin\Debug\guessTheNumber.pdb
+D:\Документы\проекты VS\Homework4\guessTheNumber\obj\Debug\guessTheNumber.exe
+D:\Документы\проекты VS\Homework4\guessTheNumber\obj\Debug\guessTheNumber.pdb
