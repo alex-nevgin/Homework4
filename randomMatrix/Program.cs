@@ -37,7 +37,7 @@ namespace randomMatrix
             {
                 for (int j = 0; j < c; j++)
                 {
-                    matrix[i, j] = rnd.Next(10);
+                    matrix[i, j] = rnd.Next(100);
                     Console.Write($"{matrix[i, j]} ");
                 }
                 Console.WriteLine();
