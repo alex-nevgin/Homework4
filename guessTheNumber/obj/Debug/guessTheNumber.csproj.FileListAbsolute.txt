@@ -4,3 +4,4 @@ D:\Документы\проекты VS\Homework4\guessTheNumber\bin\Debug\guess
 D:\Документы\проекты VS\Homework4\guessTheNumber\bin\Debug\guessTheNumber.pdb
 D:\Документы\проекты VS\Homework4\guessTheNumber\obj\Debug\guessTheNumber.exe
 D:\Документы\проекты VS\Homework4\guessTheNumber\obj\Debug\guessTheNumber.pdb
+D:\Документы\проекты VS\Homework4\guessTheNumber\obj\Debug\guessTheNumber.csproj.SuggestedBindingRedirects.cache

@@ -23,7 +23,6 @@ namespace guessTheNumber
 
             #endregion
             
-
             while (true)
             {
                 Console.WriteLine(hint2);

@@ -1,0 +1,7 @@
+D:\Документы\проекты VS\Homework4\lowestValue\obj\Debug\lowestValue.csproj.AssemblyReference.cache
+D:\Документы\проекты VS\Homework4\lowestValue\obj\Debug\lowestValue.csproj.SuggestedBindingRedirects.cache
+D:\Документы\проекты VS\Homework4\lowestValue\obj\Debug\lowestValue.csproj.CoreCompileInputs.cache
+D:\Документы\проекты VS\Homework4\lowestValue\bin\Debug\lowestValue.exe
+D:\Документы\проекты VS\Homework4\lowestValue\bin\Debug\lowestValue.pdb
+D:\Документы\проекты VS\Homework4\lowestValue\obj\Debug\lowestValue.exe
+D:\Документы\проекты VS\Homework4\lowestValue\obj\Debug\lowestValue.pdb
