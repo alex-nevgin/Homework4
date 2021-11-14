@@ -33,28 +33,24 @@ namespace lowestValue
             for (int i = 0; i < length; i++)
             {
                 int num = int.Parse(Console.ReadLine());
-                num = progression[i];
-                Console.ReadLine();
+                progression[i] = num;
             }
-            
-            #endregion Поиск минимального значения
-
-            int min = int.MaxValue;
-            foreach (var i in progression)
-            {
-                if (progression[i] > min)
-                {
-                    min = progression[i];
-                }
-            }
-            
-            #region 
-
-         
 
             #endregion
-            
-            
+
+            #region Поиск минимального значения
+
+            int min = int.MaxValue;
+            for (int i = 0; i < length; i++)
+            {
+                if (progression[i] < min)
+                {
+                    min = progression[i];   
+                }
+            }
+            Console.WriteLine("Минимальное значение: " + min);
+
+            #endregion
         }
     }
 }

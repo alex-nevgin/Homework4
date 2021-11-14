@@ -1,0 +1,6 @@
+D:\Документы\Repos\Homework4\lowestValue\bin\Release\lowestValue.exe
+D:\Документы\Repos\Homework4\lowestValue\bin\Release\lowestValue.pdb
+D:\Документы\Repos\Homework4\lowestValue\obj\Release\lowestValue.csproj.SuggestedBindingRedirects.cache
+D:\Документы\Repos\Homework4\lowestValue\obj\Release\lowestValue.csproj.CoreCompileInputs.cache
+D:\Документы\Repos\Homework4\lowestValue\obj\Release\lowestValue.exe
+D:\Документы\Repos\Homework4\lowestValue\obj\Release\lowestValue.pdb

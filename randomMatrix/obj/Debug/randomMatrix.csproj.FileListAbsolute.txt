@@ -4,3 +4,10 @@ D:\Документы\проекты VS\Homework4\randomMatrix\bin\Debug\randomM
 D:\Документы\проекты VS\Homework4\randomMatrix\bin\Debug\randomMatrix.pdb
 D:\Документы\проекты VS\Homework4\randomMatrix\obj\Debug\randomMatrix.exe
 D:\Документы\проекты VS\Homework4\randomMatrix\obj\Debug\randomMatrix.pdb
+D:\Документы\Repos\Homework4\randomMatrix\bin\Debug\randomMatrix.exe
+D:\Документы\Repos\Homework4\randomMatrix\bin\Debug\randomMatrix.pdb
+D:\Документы\Repos\Homework4\randomMatrix\obj\Debug\randomMatrix.csproj.AssemblyReference.cache
+D:\Документы\Repos\Homework4\randomMatrix\obj\Debug\randomMatrix.csproj.SuggestedBindingRedirects.cache
+D:\Документы\Repos\Homework4\randomMatrix\obj\Debug\randomMatrix.csproj.CoreCompileInputs.cache
+D:\Документы\Repos\Homework4\randomMatrix\obj\Debug\randomMatrix.exe
+D:\Документы\Repos\Homework4\randomMatrix\obj\Debug\randomMatrix.pdb
