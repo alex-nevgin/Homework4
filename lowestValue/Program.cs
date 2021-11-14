@@ -23,12 +23,31 @@ namespace lowestValue
                 {
                     Console.WriteLine("Длина последовательности должна быть положительна и не равна 0.");
                 }
+                return;
             }
 
             Console.WriteLine("Введите последовательность:");
-            
-            #endregion
 
+            progression = new int[length];
+
+            for (int i = 0; i < length; i++)
+            {
+                int num = int.Parse(Console.ReadLine());
+                num = progression[i];
+                Console.ReadLine();
+            }
+            
+            #endregion Поиск минимального значения
+
+            int min = int.MaxValue;
+            foreach (var i in progression)
+            {
+                if (progression[i] > min)
+                {
+                    min = progression[i];
+                }
+            }
+            
             #region 
 
          
